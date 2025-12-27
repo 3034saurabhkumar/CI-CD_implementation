@@ -3,8 +3,22 @@
 This repository demonstrates an **end-to-end CI/CD pipeline** using **Jenkins, Docker, GitHub, Kubernetes and Argo CD (Operator-based)**.
 
 ---
+### 🔖 Key Concepts
+`CI/CD` · `GitOps` · `Release Management` · `Docker Image Versioning` . `Kubernetes Deployments` · `Argo CD Sync` · `Jenkins Pipelines`
 
-## 🔧 Tech Stack
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Actions?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 - **Source Control**: GitHub  
 - **CI Tool**: Jenkins (Declarative Pipeline)
